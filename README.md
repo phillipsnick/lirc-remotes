@@ -1,5 +1,6 @@
-LIRC Remotes
-============
+# LIRC Remotes
+
+## Introduction
 
 Remote configs for remotes I couldn't find else where on the internet.
 
